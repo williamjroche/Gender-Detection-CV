@@ -21,6 +21,21 @@ A real-time gender classification system built with a custom-trained Convolution
 - **Data augmentation** pipeline to improve generalization
 
 ---
+## How to use
+
+1)
+```bash
+pip install tensorflow opencv-python numpy matplotlib
+```
+2) download gender_detection_CV.py
+3) downlaod gender_detection_model.keras
+4) download haarcascade_frontalface_alt.xml
+5) change file path on line 12 to saved location of gender_detection_model.keras
+6) change file path on line 15 to saved location of haarcascade_frontalface_alt.xml
+7) run gender_detection_CV
+
+note: if you are having trouble use an environment and install dependencies from step 1 in the environment, i recommend miniconda if you don't already have an environment
+---
 
 ## Model Architecture
 
