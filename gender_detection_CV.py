@@ -8,10 +8,11 @@ import numpy as np
 img_cam = cv2.VideoCapture(0)
 window_name = 'Gender Detection'
 
-#Model has 95% accuracy
-gender_model = load_model('D:/personal/computer vision/custom models/gender_detection_model.keras')
-#Built in OpenCV face detection --> used to capture face image for my gender det. model
-face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_alt.xml')
+#Model has 95% accuracy - change this file path to your path
+gender_model = load_model('E:/personal/computer vision/custom models/gender_detection_model.keras')
+
+#Built in OpenCV face detection --> used to capture face image for my gender det. model - change this file path to your path
+face_cascade = cv2.CascadeClassifier("E:\personal\computer vision\haarcascade_frontalface_alt.xml")
 
 #return either male or female prediction with confidence
 def male_or_female(prediction):
