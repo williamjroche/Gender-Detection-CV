@@ -13,9 +13,9 @@ epochs = 20
 male_count = 0
 female_count = 0
 
-#training data
+#training data - change file path to your training set
 train_dataset = keras.utils.image_dataset_from_directory(
-    'D:/personal/computer vision/gender_dataset_2/Dataset/Train',
+    'some file path',
     labels='inferred',
     label_mode='int',
     image_size=(img_height, img_width),
@@ -24,9 +24,9 @@ train_dataset = keras.utils.image_dataset_from_directory(
 )
 print(train_dataset.class_names)
 
-#validation data
+#validation data - change file path to your validation set
 eval_dataset = keras.utils.image_dataset_from_directory(
-    'D:/personal/computer vision/gender_dataset_2/Dataset/Validation',
+    'some file path',
     labels='inferred',
     label_mode='int',
     image_size=(img_height, img_width),
@@ -92,4 +92,4 @@ model.fit( #specify train dataset, validation, and epochs
 )
 
 
-model.save('D:/personal/computer vision/custom models/gender_detection_model.keras') #save the model to your needed path
+model.save('some file path') #save the model to your needed path
