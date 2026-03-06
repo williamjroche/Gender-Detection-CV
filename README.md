@@ -28,7 +28,7 @@ A real-time gender classification system built with a custom-trained Convolution
 pip install tensorflow opencv-python numpy matplotlib
 ```
 2) download gender_detection_CV.py
-3) downlaod gender_detection_model.keras
+3) download gender_detection_model.keras
 4) download haarcascade_frontalface_alt.xml
 5) change file path on line 12 to saved location of gender_detection_model.keras
 6) change file path on line 15 to saved location of haarcascade_frontalface_alt.xml
@@ -150,9 +150,9 @@ python gender_detection_CV.py
 
 ## Author
 
-- Wiliam Roche
+- William Roche
 - Electrical Engineering Student
 - Florida Polytechnic University
 - LinkedIn link in bio
 
-Built as a personal computer vision project to explore CNN design, real-time inference pipelines, and OpenCV integration, and to improve robtics projects
+Built as a personal computer vision project to explore CNN design, real-time inference pipelines, and OpenCV integration, and to improve robotics projects
