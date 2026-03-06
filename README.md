@@ -106,7 +106,7 @@ python gender_detection_CV.py
 ```
 
 - Ensure your webcam is connected
-- Press **`Q`** to quit the live feed
+- Press **`Ctrl + C`** to quit the live feed
 
 ---
 
