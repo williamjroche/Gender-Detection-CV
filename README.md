@@ -8,7 +8,10 @@ A real-time gender classification system built with a custom-trained Convolution
 
 > Live webcam feed with bounding boxes and gender predictions rendered in real time.
 
-<img width="550" height="456" alt="image" src="https://github.com/user-attachments/assets/36bcf7a9-76cc-4b85-8791-7517aabdb8de" />
+<p text-align: center>
+  <img width="450" height="356" alt="image" src="https://github.com/user-attachments/assets/36bcf7a9-76cc-4b85-8791-7517aabdb8de" />
+</p>
+
 
 
 ## Features
