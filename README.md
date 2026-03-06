@@ -134,9 +134,9 @@ python gender_detection_CV.py
 
 ## Author
 
-Wiliam Roche
-Electrical Engineering Student
-Florida Polytechnic University
-LinkedIn link in bio
+- Wiliam Roche
+- Electrical Engineering Student
+- Florida Polytechnic University
+- LinkedIn link in bio
 
 Built as a personal computer vision project to explore CNN design, real-time inference pipelines, and OpenCV integration, and to improve robtics projects
