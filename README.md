@@ -1,6 +1,6 @@
 # Real-Time Gender Detection via Computer Vision
 
-A real-time gender classification system built with a custom-trained Convolutional Neural Network (CNN) and OpenCV. The system detects faces via webcam and classifies gender with **~95% validation accuracy**.
+A real-time gender classification system built with a custom-trained Convolutional Neural Network (CNN) using Tensorflow Keras and OpenCV. The system detects faces via webcam and classifies gender with **~95% validation accuracy**.
 
 ---
 
