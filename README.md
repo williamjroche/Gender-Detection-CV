@@ -35,6 +35,7 @@ pip install tensorflow opencv-python numpy matplotlib
 7) run gender_detection_CV
 
 note: if you are having trouble use an environment and install dependencies from step 1 in the environment, i recommend miniconda if you don't already have an environment
+
 ---
 
 ## Model Architecture
