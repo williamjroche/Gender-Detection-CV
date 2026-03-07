@@ -10,8 +10,8 @@ A real-time gender classification system built with a custom-trained Convolution
 
 <p align="center">
   <img width="450" height="356" alt="image" src="https://github.com/user-attachments/assets/36bcf7a9-76cc-4b85-8791-7517aabdb8de" />
-  <img width="515" height="641" alt="model_architecture" src="https://github.com/user-attachments/assets/bd2bcacb-0d6f-4110-b2ab-5c2e521ac89f" />
   <img width="876" height="247" alt="model_results" src="https://github.com/user-attachments/assets/9eecbb73-c059-4442-b7ae-5a9ab637b528" />
+  <img width="515" height="641" alt="model_architecture" src="https://github.com/user-attachments/assets/bd2bcacb-0d6f-4110-b2ab-5c2e521ac89f" />
 </p>
 
 
