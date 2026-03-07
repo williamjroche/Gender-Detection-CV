@@ -35,7 +35,7 @@ pip install tensorflow opencv-python numpy matplotlib
 2) download gender_detection_CV.py
 3) download gender_detection_model.keras
 4) download haarcascade_frontalface_alt.xml
-5) change file path on line 12 to saved location of gender_detection_model.keras
+5) change file path on line 12 to saved location of gender_detection_model_0.keras
 6) change file path on line 15 to saved location of haarcascade_frontalface_alt.xml
 7) run gender_detection_CV
 
